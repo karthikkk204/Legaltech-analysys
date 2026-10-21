@@ -1,0 +1,13 @@
+court_id,court_name,court_type,city,state
+CRT01,Fictional Court 01,High,Bengaluru,Delhi
+CRT02,Fictional Court 02,Tribunal,Pune,Delhi
+CRT03,Fictional Court 03,High,Delhi,Karnataka
+CRT04,Fictional Court 04,High,Chennai,Tamil Nadu
+CRT05,Fictional Court 05,Tribunal,Pune,Delhi
+CRT06,Fictional Court 06,High,Bengaluru,Karnataka
+CRT07,Fictional Court 07,District,Hyderabad,Delhi
+CRT08,Fictional Court 08,Tribunal,Hyderabad,Tamil Nadu
+CRT09,Fictional Court 09,High,Mumbai,Delhi
+CRT10,Fictional Court 10,High,Chennai,Tamil Nadu
+CRT11,Fictional Court 11,High,Chennai,Telangana
+CRT12,Fictional Court 12,High,Hyderabad,Maharashtra
