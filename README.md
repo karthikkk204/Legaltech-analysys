@@ -209,12 +209,5 @@ Before running the load script, ensure:
 **Issue**: Date conversion errors
 - **Solution**: Check date formats in CSV files match expected format
 
-## License
-
-This project is provided as-is for legal case management and analytics purposes.
-
-## Contact
-
-For questions or issues, please refer to the project documentation or contact the development team.
 
 
